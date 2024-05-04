@@ -1,7 +1,5 @@
 package dataStructures;
 
-import java.util.List;
-
 public class algorithms {
 
 

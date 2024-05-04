@@ -15,8 +15,8 @@ public class Main {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         algorithms reverse = new algorithms();
-        String word1, choice = null;
-        int x = 0;
+        String word1, choice;
+        int x;
 
         System.out.println
                 ("+++++++++++++++====================\n" +
